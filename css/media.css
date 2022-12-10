@@ -1,0 +1,218 @@
+@media(min-width:1023px){
+    .banner {
+        top: -5%;
+    }
+    .btn-quote{
+        margin-bottom: 40px;
+    }
+    .call_man{
+        left: 57%;
+    }
+    .footer_img {
+        width: 30%;
+        top: 52%;
+        right: 10%;
+    }
+    footer{
+        background-size: 62%;
+    }
+    .process_info{
+        height: 502px;
+        width: 295px;
+    }
+    .process_number{
+        left: 49%;
+    }
+    .serve_item{
+        height: 510px;
+        width: 225px;
+    }
+}
+@media(min-width:1440px){
+    .process_info{
+        height: 420px;
+        width: 380px;
+    }
+    .process_number{
+        left: 45%;
+    }
+    .serve_item{
+        height: 470px;
+        width: 310px;
+    }
+    .footer_img{
+        top: 24%;
+    } 
+}
+@media(min-width:2560px){
+    .banner {
+        top: 33%;
+    }
+}
+@media(max-width:768px){
+    .banner{
+        width: 60%;
+    }
+    .main_header img{
+        width: 80%;
+    }
+    .navbar-nav .nav-item .nav-link{
+        padding: 5px 20px;
+        border-radius: 50px;
+    }
+    .nav-link{
+        background-color: #14548f;
+        margin: 5px 0;
+        font-size: 14px;
+    }
+    .btn-phone{
+        background-color: #14548f;
+        margin-top: 20px;
+    }
+    .main_text h1{
+        font-size: 33px;
+    }
+    .btn-quote{
+        padding: 10px 25px;
+        margin-bottom: 40px;
+    }
+    .live_call{
+        min-height: 68vh;
+    }
+    .main_info{
+        margin-top: 50px;
+    }
+    .main_text h1{
+        font-size: 25px;
+    }
+    .main_text p{
+        font-size: 14px;
+    }
+    .about_info, .get_info{
+        padding: 22px;
+    }
+    .about_images h4{
+        width: 50%;
+        font-size: 20px;
+    }
+    .call_man {
+        bottom: 37%;
+        width: 50%;
+    }
+    .process_info{
+        display: table-cell;
+    }
+    .process_number{
+        left: 48%;
+    }
+    .m_display{
+        display: none;
+    }
+    .serve_btn {
+        margin-top: 110px;
+    }
+    footer{
+        background-size: 77vh;
+    }
+    .footer_img{
+        top: 48%;
+    } 
+}
+@media(max-width:651px){
+    .call_man{
+        display: none;
+    }
+    .main_header img{
+        display: none;
+    }
+    .banner{
+        text-align: end;
+        width: 60%;
+    }
+    .live_call img{
+        width: 34%;
+        margin-bottom: 20px;
+    }
+    .main_info {
+        margin-top: 50px;
+        display: contents;
+        text-align: start;
+    }
+    .money{
+        min-height: 110vh;
+    }
+    .process_number {
+        left: 37%;
+    }
+    .process_part {
+        margin-bottom: 73px;
+    }
+    .footer_call_2{
+        display: none;
+    }
+    footer{
+        background-size: 68vh;
+    }
+    .footer_call{
+        padding-bottom: 20px;
+    }
+}
+@media(max-width:576px){
+    .process_part, .serve-part{
+        text-align: -webkit-center;
+    }
+    .process_number {
+        left: 49%;
+    }
+    footer{
+        background-size: 55vh;
+    }
+    .footer_img {
+        width: 36%;
+        top: 62%;
+    }
+    .live_call{
+        padding: 30px;
+    }
+    .text-end{
+        color: #000;
+    }
+}
+@media(max-width:425px){
+    .f_item span{
+        color: #000;
+    }
+    footer {
+        background-size: 42vh;
+    }
+    .live_call{
+        padding: 30px;
+    }
+}
+@media(max-width:376px){
+    .f_item{
+        margin-bottom: 20px;
+        color: #000;
+    }
+    .navbar-light .navbar-brand{
+        width: 40%;
+    }
+    [type=button]:not(:disabled), [type=reset]:not(:disabled), [type=submit]:not(:disabled), button:not(:disabled) {
+        font-size: 16px;
+        border-radius: 50px;
+    }
+    .footer_img {
+        top: 70%;
+    }
+}
+@media(max-width:320px){
+    .accordion-item a{
+        margin-right: 18px;
+    }
+    .f_item{
+        font-size: 14px;
+    }
+    .footer_img{
+        display: none;
+    }
+}
